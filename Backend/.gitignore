@@ -17,7 +17,6 @@ lerna-debug.log*
 pids
 *.pid
 *.seed
-/uploads/
 !src/modules/uploads/
 
 # IDE - VSCode
